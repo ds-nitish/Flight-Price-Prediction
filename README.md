@@ -44,7 +44,7 @@ Test Accuracy:  0.905
 Train Accuracy:  0.904
 Mean Squared Error_MSE:  49221894.953
 Root Mean Squared Error_RMSE:  7015.832
-------------------------------------------------------------------------
+
 Decision Tree Regression model fitting
 Model Name:  DecisionTreeRegressor()
 Test Accuracy:  0.955
