@@ -1,6 +1,5 @@
 # Flight-Price-Prediction
-# Flight Price Prediction ML Model - Readme
-# Link of web app ---->  https://flight-price-predictor.herokuapp.com/
+## Link of web app ---->  https://flight-price-predictor.herokuapp.com/
 
 This readme file provides a step-by-step guide on how to develop and deploy a machine learning model for flight price prediction. The model will be built using Python, and it will be deployed on the Heroku platform.
 
