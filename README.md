@@ -45,20 +45,23 @@ Train Accuracy:  0.904
 Mean Squared Error_MSE:  49221894.953
 Root Mean Squared Error_RMSE:  7015.832
 
+
 Decision Tree Regression model fitting
 Model Name:  DecisionTreeRegressor()
 Test Accuracy:  0.955
 Train Accuracy:  0.983
 Mean Squared Error_MSE:  23229295.399
 Root Mean Squared Error_RMSE:  4819.678
-------------------------------------------------------------------------
+
+
 Random Forest Regressor Model Training
 Model Name:  RandomForestRegressor()
 Test Accuracy:  0.962
 Train Accuracy:  0.982
 Mean Squared Error_MSE:  19436910.601
 Root Mean Squared Error_RMSE:  4408.731
-------------------------------------------------------------------------
+
+
 XGB Regressor Model Training
 Model Name:  XGBRegressor(base_score=None, booster=None, callbacks=None,
              colsample_bylevel=None, colsample_bynode=None,
@@ -75,35 +78,39 @@ Test Accuracy:  0.968
 Train Accuracy:  0.969
 Mean Squared Error_MSE:  16476207.232
 Root Mean Squared Error_RMSE:  4059.089
-------------------------------------------------------------------------
+
+
 K Neighbour Regressor Model Training
 Model Name:  KNeighborsRegressor()
 Test Accuracy:  0.86
 Train Accuracy:  0.912
 Mean Squared Error_MSE:  72305787.59
 Root Mean Squared Error_RMSE:  8503.281
-------------------------------------------------------------------------
+
+
 Ridge Model Training
 Model Name:  Ridge()
 Test Accuracy:  0.905
 Train Accuracy:  0.904
 Mean Squared Error_MSE:  49221964.609
 Root Mean Squared Error_RMSE:  7015.837
-------------------------------------------------------------------------
+
+
 Lasso Model Training
 Model Name:  Lasso(alpha=0.1)
 Test Accuracy:  0.905
 Train Accuracy:  0.904
 Mean Squared Error_MSE:  49221914.434
 Root Mean Squared Error_RMSE:  7015.833
-------------------------------------------------------------------------
+
+
 Gradient Boosting Regressor model Training
 Model Name:  GradientBoostingRegressor(random_state=42)
 Test Accuracy:  0.95
 Train Accuracy:  0.949
 Mean Squared Error_MSE:  26078344.879
 Root Mean Squared Error_RMSE:  5106.696
-------------------------------------------------------------------------
+
 
 
 ## 7. Model Deployment on Heroku
