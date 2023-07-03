@@ -1,4 +1,4 @@
-xgboost==1.7.5
+xgboost
 pandas
 numpy
 matplotlib
